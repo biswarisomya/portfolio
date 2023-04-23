@@ -15,14 +15,14 @@ const Home = () => {
       <div className="flex items-center justify-center h-[100vh]">
         <div className="flex w-[71%] mobile:w-[85%] mx-auto flex-wrap  justify-center text-center">
           <div className="text-[5.6rem] mobile:text-[3.4rem] font-bold tracking-normal font-sans">
-            I'm Somya Biswari.
+            I&apos;m Somya Biswari.
           </div>
           <div className="text-lg leading-[1.9rem] w-[70%] mobile:w-[85%] mobile:tracking-wider mobile:mx-auto text-justify font-serif">
-            I'm a <span className="italic">Software Engineer </span> and a tech
-            geek. I did my Bachelor's in Electrical & Electronics Engineering
-            from AKTU University, India and have overall 5+ years of experience.
-            I am seeking for Software Development Engineer full time
-            opportunities. Let'start scrolling and learn about me.
+            I&apos;m a <span className="italic">Software Engineer </span> and a
+            tech geek. I did my Bachelor&apos;s in Electrical & Electronics
+            Engineering from AKTU University, India and have overall 5+ years of
+            experience. I am seeking for Software Development Engineer full time
+            opportunities. Let&apos;start scrolling and learn about me.
           </div>
         </div>
       </div>

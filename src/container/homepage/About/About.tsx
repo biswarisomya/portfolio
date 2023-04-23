@@ -31,7 +31,7 @@ const About = () => {
             <div className="mobile:leading-[30px]">
               I am situational girl and usually adapt myself to any environment.
               I am very passionate about learning and like to work in a
-              challenging environment. I am a quick learner and don't hesitate
+              challenging environment. I am a quick learner and don&apos;t hesitate
               in learning anything new. I always do my work with full dedication
               and sincerity. I want to become the jack of all interrelated
               technologies and master of some. This is my brief summary. I look
